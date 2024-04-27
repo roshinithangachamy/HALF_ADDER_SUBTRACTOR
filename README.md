@@ -37,8 +37,6 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -62,12 +60,15 @@ Figure -02 HALF Subtractor
 
 
 **RTL Schematic**
+
 ![Screenshot 2024-04-10 143428](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/1421594b-45b8-401c-9303-ea64f02acc25)
 
 **TRUTH TABLE**
+
 ![Screenshot 2024-04-13 104448](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/802e05ee-9412-4b58-a95c-2104c3725edc)
 
 **Output/TIMING Waveform**
+
 ![Screenshot 2024-04-10 143806](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/22bde68d-0052-4ec7-9e53-855664b79963)
 
 ## HALF SUBTRACTOR
