@@ -1,4 +1,8 @@
-# HALF_ADDER_SUBTRACTOR
+**EX-2**
+
+<p align='center'> <b>IMPLEMENTATION OF HALF ADDER AND HALF SUBTRACTOR</b>   
+ 
+**DATE:** 
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -47,15 +51,43 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
+**Developed by: T.ROSHINI**  
+**RegisterNumber: 212223230175** 
+
+## HALF ADDER
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+![Screenshot 2024-04-10 143354](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/82aece4f-e139-4bad-af63-906f0742b36d)
 
-Developed by: RegisterNumber:*/
+
+**RTL Schematic**
+![Screenshot 2024-04-10 143428](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/1421594b-45b8-401c-9303-ea64f02acc25)
+
+**TRUTH TABLE**
+![Screenshot 2024-04-13 104448](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/802e05ee-9412-4b58-a95c-2104c3725edc)
+
+**Output/TIMING Waveform**
+![Screenshot 2024-04-10 143806](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/22bde68d-0052-4ec7-9e53-855664b79963)
+
+## HALF SUBTRACTOR
+
+**Program:**
+
+![image](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/49669bce-5d04-4f25-bb4f-cbb793a72320)
 
 **RTL Schematic**
 
+![Screenshot 2024-04-13 194258](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/1386d1b9-e29a-416a-9ab4-48772f1a3371)
+
+**Truthtable**
+
+![Screenshot 2024-04-13 195011](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/bd1bc86e-0fe1-4aeb-b83d-f769277ba7ac)
+
 **Output/TIMING Waveform**
 
+![Screenshot 2024-04-13 194620](https://github.com/subha-shinibalasubramanian/HALF_ADDER_SUBTRACTOR/assets/164154478/4e23946b-b66f-4656-8ba4-bf8ff63c43fd)
+
 **Result:**
+
+Thus the program was successfully verified.
