@@ -1,4 +1,4 @@
-**EX-2**
+**EX-3**
 
 <p align='center'> <b>IMPLEMENTATION OF HALF ADDER AND HALF SUBTRACTOR</b>   
  
